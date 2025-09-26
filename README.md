@@ -4,7 +4,7 @@ Convolutional Neural Networks (CNNs) applied to the **CIFAR-10 dataset** using *
 This project explores baseline CNNs, data augmentation, hyperparameter tuning, and evaluation with accuracy, F1-score, and confusion matrix.
 
 📺 **Demo video:** [Watch on YouTube](https://youtu.be/wXUQDArZj-Q)  
-📑 **Full report:** See [`report.pdf`](./report.pdf)
+📑 **Full report:** See [`Computer vision application report.pdf`](./Computer%20vision%20application%20report.pdf)
 
 ---
 
